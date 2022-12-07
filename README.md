@@ -78,4 +78,4 @@
   
    The results of our analysis shows that males were the primary users for CitiBikes in NYC for the month of August 2019. Peak usage occurred on Thursdays during the late hours of that day. Also, most users usually cycle between 5 and 10 minutes and most bikes are returned before 20 minutes of use.
 
-   I suggest two analyses of start and end trips to complement this project, using maps for visualization. These analyses would be helpful as they could help the company organize logistics and resources to serve customers better. 
+   I suggest two additional analysis of start and end trips to complement this project, using maps for visualization. This would be helpful as they could help the company organize logistics and resources to serve customers better. 
